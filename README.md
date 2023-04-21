@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40"/>&nbsp;
+</div>
 <!--
 **GrishaTS/GrishaTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
