@@ -3,7 +3,7 @@
 🎓 **Студент второго курса** факультета компьютерных наук НИУ ВШЭ, программа "Программная инженерия".  
 💡 **Data Scientist** в процессе становления — интересуюсь анализом данных, машинным обучением и созданием эффективных решений.  
 📍 **Москва, Россия**  
-📄 **Резюме**: [ссылка](https://github.com/GrishaTS/GrishaTS/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Data_Scientist_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%B7%D1%80%D1%83%D0%BA%D0%BE%D0%B2.pdf)  
+📄 **Резюме**: [ссылка](https://github.com/GrishaTS/GrishaTS/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)  
 📬 **Связь**: [Telegram](https://t.me/bezGriga) | gabezrukov@edu.hse.ru  
 
 ---
