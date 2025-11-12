@@ -2,7 +2,7 @@
 🎓 Высшее образование: НИУ ВШЭ, Факультет компьютерных наук, «Программная инженерия»  
 📍 Москва, Россия  
 📞 `+7 (915) 125-22-26`  
-📄 [Резюме](https://github.com/GrishaTS/GrishaTS/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)  
+📄 [Резюме](https://github.com/GrishaTS/GrishaTS/blob/main/Безруков_Гриша-Data_Sciene.pdf)  
 📬 [Telegram](https://t.me/bezGriga)  
 ✉️ [gabezrukov@edu.hse.ru](mailto:gabezrukov@edu.hse.ru)
 
